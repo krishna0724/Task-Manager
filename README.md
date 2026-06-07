@@ -1,9 +1,13 @@
 # Studio Graphene Task Manager
 
-A simple full-stack task manager built with React on the frontend and Node.js + Express on the backend. This project demonstrates a clean separation between `/client` and `/server`, REST API usage, JSON file storage, and basic CRUD operations.
+This submission is the task manager exercise from the Studio Graphene take-home assignment. It is a simple full-stack task manager built with React on the frontend and Node.js + Express on the backend. This project demonstrates a clean separation between `/client` and `/server`, REST API usage, JSON file storage, and basic CRUD operations.
 
 ## Live Demo
-- No live deployment available yet.
+- Frontend: https://task-manager-krishna-s-project-2407.vercel.app/
+- Backend API: https://task-manager-api-o27u.onrender.com/api/tasks
+
+## Repository
+- https://github.com/krishna0724/Task-Manager
 
 ## Tech Stack
 - Frontend: React + Vite
@@ -104,8 +108,7 @@ README.md
 - Overdue styling for past due dates
 
 ## Notes / Next Steps
-- I have not deployed the app yet.
-- Next step would be a live deployment with frontend on Vercel / Netlify and backend on Railway / Render.
-- I would also improve validation and add a small test suite for backend routes.
+- The app is deployed with the frontend on Vercel and the backend on Render.
+- Next improvements would include adding more validation and a small test suite for backend routes.
 - If I had more time, I would add user authentication and persistent database storage.
 
