@@ -108,3 +108,4 @@ README.md
 - Next step would be a live deployment with frontend on Vercel / Netlify and backend on Railway / Render.
 - I would also improve validation and add a small test suite for backend routes.
 - If I had more time, I would add user authentication and persistent database storage.
+
